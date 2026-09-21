@@ -42,6 +42,9 @@ A QR code holds at most about 3 KB, so a normal photo cannot fit inside one. The
 
 The encoder's block and capacity tables were compared against an independent implementation for all 160 version and level combinations. A maximum-size code for every version and level was decoded with an independent decoder, as were exports of every dot style, corner style and logo combination.
 
+**Live demo:** https://muthokaricky-alt.github.io/QR-Studio/
+
+
 ## Ideas for later
 
 - Numeric and alphanumeric encoding modes (smaller codes for digits-only or uppercase text).
