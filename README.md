@@ -2,6 +2,8 @@
 
 A QR code generator that runs entirely in your browser. Paste text or an image, style the code, and export it as PNG, SVG or PDF. Nothing you type or paste is uploaded anywhere.
 
+
+
 ## Run it
 
 Open `index.html` in a browser. There is nothing to install or build.
